@@ -1717,32 +1717,7 @@ button.gm-spotify-controls-button{
     display:flex;
 }
 
-/* Avatar zoom on hover  Special thanks to Nao Tomori#1166 from PC discord*/
-.avatar-2e8lTP:hover{
-    transform:scale(1.6);
-    border-radius:5px !important;
-    background-color:var(--roundmoled-background) !important;
-    border:solid;
-    border-color:var(--roundmoled-background) !Important;
-    border-width:0.04cm;
-    /* margin-top:-25%;
-    margin-left:30%; */ /* idk why these were on, it moves the avatar to middle of the screen or at least trys to*/
-}
-.avatar-2e8lTP{
-transition:250ms;
-}
-.avatarHintInner-2HUAWj{
-    opacity:0;
-}
 
-.avatar-2e8lTP:hover .avatarHint-k7pYop > foreignObject {
-    mask: none !important;
-} 
-
-.avatar-2e8lTP:hover .mask-1FEkla > foreignObject { 
-    mask: none !important; 
-    border-radius:5px;
-}
 
 /* Locked channel badge */
 [d="M21.025 5V4C21.025 2.88 20.05 2 19 2C17.95 2 17 2.88 17 4V5C16.4477 5 16 5.44772 16 6V9C16 9.55228 16.4477 10 17 10H19H21C21.5523 10 22 9.55228 22 9V5.975C22 5.43652 21.5635 5 21.025 5ZM20 5H18V4C18 3.42857 18.4667 3 19 3C19.5333 3 20 3.42857 20 4V5Z"]{
