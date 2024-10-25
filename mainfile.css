@@ -8,7 +8,38 @@
     --roundmoled-background: #142339;
     --popout-activeborders: #1f1f1f;
 }
+.theme-dark,
+html.theme-dark .theme-light .root_a28985,
+.theme-light.popout_a6e77f {
+  --background-floating: #000 !important;
+  --background-secondary-alt: #000 !important;
+}
 
+
+:root.theme-dark 
+{
+--background-tertiary: #000 !important;
+--background-floating: #000 !important;
+--input-background: #000 !important;
+--deprecated-card-editable-bg: #000 !important;
+--background-secondary: #000 !important;
+--background-tertiary: #000 !important;
+--background-primary: #000 !important;
+}
+
+
+.theme-dark {
+    /* reaction emojipicker */
+	--background-secondary: #000 !important;
+	--background-secondary-alt: #000 !important;
+	--background-modifier-selected: #000 !important;
+	--background-modifier: #000 !important;
+	--background-modifier-hover: #000 !important;
+	--input-background: #000 !important;
+	--background-secondary: #000 !important; 
+	--bg-overlay-3: #000 !important;
+	--channeltextarea-background: #000 !important;
+}
 
 /***************************************************************************************
  ██████╗██╗  ██╗ █████╗ ████████╗
