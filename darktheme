@@ -1,0 +1,1136 @@
+/**
+* @name Roundmoled
+* @author Costicost
+* @description Simple amoled black + rounded corners theme
+* @source https://github.com/tiredmala/Roundmoled
+* @updateUrl https://tiredmala.github.io/Roundmoled/BetterDiscord/roundmoled.theme.css
+* @authorId 699552486360612954
+* @version 1.1
+*/
+
+@import url("https://costicost.github.io/mainfile.css");
+
+
+
+/* vc sound board buttons */
+.soundButtonInteractiveRefresh_f40049 {
+    cursor: pointer;
+    background: #000 !important;
+    border: none;
+}
+
+
+/* disable bottom  of server list footer */
+.footer_aa1bff {
+    display: none;
+}
+.footer_d71945 {
+    display: none;
+}
+
+
+.footer_ac90a2 {
+    background-color: #000;
+}
+
+
+.outer_c0f6a6 {
+    background-color: #000;
+}
+.categoryHeader_fe2299 {
+    background-color: #000;
+}
+.list_fe2299 {
+    background: #000;
+}
+.scroller_bea0d0 {
+    background: #000;
+}
+
+
+
+
+/* hover buttons */
+.message_d5deea.selected_d5deea .buttonsInner_d5deea, .mouse-mode .message_d5deea:hover .buttonsInner_d5deea {
+    background: #000;
+    border: none;
+}
+.avatarPopover_cf8aee {
+    background: #000;
+}
+.colorable_f1ceac.primaryDark_f1ceac.active_f1ceac, .colorable_f1ceac.primaryDark_f1ceac:hover {
+    background: #000;
+}
+
+
+/* voice call top bar for some reason??? */
+.container_e44302.transparent_e44302 {
+    background: #000 !important;
+}    
+    		
+#app-mount > div.appAsidePanelWrapper_a3002d > div.notAppAsidePanel_a3002d > div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div > div.chat_f75fb0 > div.wrapper_cb9592.noChat_cb9592.video_cb9592 > div.callContainer_cb9592.theme-dark.images-dark > div > div.videoControls_bfe55a > div.bottomControls_bfe55a.controlSection_bfe55a > div.flex__7c0ba.horizontal__7c0ba.justifyCenter_abf706.alignCenter_abf706.noWrap_abf706 > div.wrapper__1405b > div.buttonContainer__1405b > div > div > svg > foreignObject > div > button{
+    display: none;
+}
+
+
+/* role giving list */
+.container_ac201b {
+    background-color: #000;
+}
+
+
+/* trash button from bottom right that opens idfk ai trash? */
+.channelAppLauncher_df39bd {
+    display: none !important;
+}
+
+/* server boost ui */
+.scroller_cc6017 {
+    background: #000;
+}
+
+/* colour picker */
+.customColorPicker_b91d66 {
+    border: none;
+    background-color: #000;
+}
+
+
+/* careful unsaved changes popup */
+.container_b6cd66 {
+    background: #000 !important;
+}
+
+
+/* profile note*/
+.note_ba0c31 textarea:focus {
+    background-color: #000 !important;
+}
+.note__7a4f4 textarea:focus {
+    background-color: #000 !important;
+}
+.note_d53fbd textarea:focus {
+    background-color: #000 !important;
+}
+/* profile thought bubble */
+.background_d0a252 {
+    --custom-status-bubble-background-color: #000;
+    --custom-status-bubble-background: #000;
+}
+.background_d22603 {
+    --custom-status-bubble-background-color: #000;
+    --custom-status-bubble-background: #000;
+    border: none;
+}
+.statusBubbleWithTextPadding_af9888 {
+    background-color: #000;
+}
+.statusBubbleSingleLineWithTextShape_af9888 {
+    background: #000;
+}
+.theme-dark .statusBubbleOuter_af9888, .theme-dark .statusBubbleOuter_af9888:before, .theme-dark .statusBubbleOuter_af9888:after {
+    border: none;
+}
+.inner_ab8609.clickable_ab8609 {
+    background: #000;
+}
+.theme-dark .outer_ab8609 {
+    border: none;
+}
+
+/* actual bubbles */
+.statusBubbleOuter_af9888:before {
+    background: #000;
+}
+.statusBubbleOuter_af9888:after {
+    background: #000;
+}
+.outer_ab8609:after, .outer_ab8609:before {
+    background: #000;
+}
+
+
+/* polls */
+.pollContainer_cfb8c7 {
+    background: #000;
+}
+.answerInner_b97752 {
+    background: #000;
+}
+
+/* command popup */
+.list_d1405b {
+    background: #000;
+}
+.categoryHeader_d1405b {
+    background: #000;
+}
+
+
+
+
+
+/* nitro choose plan bk */
+.content_cc6017 {
+    background-color: #000;
+}
+
+/* nitro screenshare colour change*/
+.text__87e56 {
+    color: var(--header-secondary);
+}
+#app-mount > div.appAsidePanelWrapper_a3002d > div.notAppAsidePanel_a3002d > div.app_a3002d > div > div.layers__960e4.layers__160d8 > div > div > div > div > div.sidebar_c48ade > section > div.panel__5dec7.activityPanel_c48ade > div > div.gameWrapper__5dec7 > div.info__5dec7 > div.perksDemoContainer__5dec7 > svg{
+    display:none;
+}
+
+
+/* right click menu emotes*/
+.button_bfb8e1 {
+    background: #000 !important;
+}
+
+
+/* popup window for screenshare*/
+
+/* right click menu */
+.scroller__8f066 {
+    background: #000 !important;
+}
+
+/* alone msg */
+.tile_a411a4 {
+    background-color: #000 !important;
+}
+
+/* invite button */
+.lookFilled__950dd.colorPrimary_ebe632 {
+    background-color: #000 !important;
+}
+
+/* */
+.userProfileInnerThemedNonPremium_ed9022 {
+    background: #000 !important;
+}
+.body_bd4552 {
+    background: #000 !important;
+}
+.theme-dark .rootWithShadow_d20cd6, .theme-light .rootWithShadow_d20cd6 {
+    background: #000 !important;
+}
+.searchBar__285ec {
+    background: #000 !important;
+
+}
+
+.theme-dark .themed_b152d4 {
+    background: #000 !important;
+}
+.list__5ced9, .grid_c2bdfe {
+    background: #000 !important;
+}
+
+
+
+/* hide nitro and shop */
+[href$="/store"] {
+    display: none !important;
+}
+[href*="/shop"] {
+    display: none !important;
+}
+.container_e5a9ed {
+    display: none;
+}
+
+/*hide gift button  */
+[aria-label="Send a gift"]{
+    display: none;
+}
+
+/* sidebar */
+.wrapper_a7e7a8{
+    background: #000000 !important
+}
+.focused_eedf95 {
+    background-color: #000;
+}
+/* discover */
+.footer__214dc {
+    display: none;
+}
+
+
+/* emojipicker */
+.contentWrapper__321ed{
+    background: #000000 !important
+}
+#emoji-picker-tab-panel{
+   background: #000000 !important 
+}
+.inner__178b2{
+    background: rgb(0, 0, 0) !important 
+}
+.searchBar__3b162{
+    background: rgb(0, 0, 0) !important 
+}
+.searchBar__8f956{
+    background: rgb(0, 0, 0) !important 
+}
+.searchBar_b56bbc {
+    background: #000;
+}
+.inspector__993e1{
+    background: #000000 !important
+}
+.wrapper__7a35f{
+    background: #000000 !important
+}
+.wrapper_cd625e{
+    background: #000000 !important
+}
+.drawerSizingWrapper__30274{
+    background: #000000 !important
+}
+.createSticker__22fad{
+    background: #000000 !important
+}
+.nav__2bf35{
+    background: #000000 !important
+}
+.header__55964{
+    background: #000000 !important
+}
+.autocompleteInner_a0e6a1 {
+	background: #000;
+}
+.autocomplete__743a5 {
+    background: #000 !important;
+}
+.container_c18ec9 {
+    background-color: #000;
+}
+.container_effbe2 {
+    background-color: #000;
+}
+.wrapper_ba23fe {
+    background-color: #000;
+}
+
+/* soundmoji emoji*/
+.soundButtonInteractiveRefresh__6d4ed {
+    background: #000;
+    border: none;
+}
+
+
+/* keybinds menu
+.keyboardShortcutList__1f357 {
+    background: #000;
+} */
+
+
+/* searchbar */
+.searchBar_e0c60b{
+    background-color: #000000 !important
+}
+/* searchpopup */
+ul.resultsGroup_ea9b64{
+    background: #000000 !important
+}
+.searchAnswer_b0fa94, .searchFilter_b0fa94 {
+    background-color: #000 !important;
+}
+
+/* reply to avatar (wtf discord what is this feature)*/
+.container_b84fc9 {
+    background: #000 !important;
+}
+
+
+
+/* search result */
+.searchHeader__19d87{
+    background: #000000 !important
+}
+div.queryContainer_c359fe.focused_f9cf2c {
+  background-color: #000000 !important
+}
+/* recommended text popup */
+.theme-dark .focused__68b93 {
+    background-color: #000 !important;
+}
+
+
+/* add friend input */
+.addFriendInputWrapper__4bf8e{
+  background-color: #000000 !important
+}
+/* friends menu gradient top right */
+.theme-dark .children__32014:after{
+    display:none !important;
+}
+/* now playing */
+.outer_ac5d22 {
+    background-color: #000 !important;
+    border: none;
+}
+
+/* watch stream button */
+.body__91006 {
+	background: #000000 !important;
+}
+
+
+/* stream hover*/
+.body_adbea6 {
+    background: #000 !important;
+}
+.theme-dark .watchButton_adbea6 {
+    border: none;
+}
+
+
+/* this stream has ended */
+.videoBackgroundTransition__62393{
+    background: #000000 !important;
+}
+
+/* delete confirmation */
+.theme-dark .message__04d9f {
+    box-shadow: none;
+    background: #000000;
+    border-block-color: #000;
+    border-radius: 0;
+}
+.footer_f9a4c9 {
+    background-color: #000;
+}
+
+
+/* game overlay game buttons*/
+.groupContainer__9d98d, .standaloneContainer__9d98d {
+    background: #000;
+}
+.expandedContainer__9d98d, .groupHeader__9d98d {
+    background-color: #000;
+}
+
+
+/* profile */
+/* background */
+div.userProfileModalInner__7c87d{
+  background: #000000 !important
+}
+.fullSizeInnerThemed_c69a7b {
+    background: #000;
+}
+/* inner background */
+/* .overlayBackground__86b78 * { */
+  /* background: #000000 !important */
+/* } */
+.biteSizeOverlayBackground_c69a7b, .fullSizeOverlayBackground_c69a7b {
+    background-color: #000;
+    border: 0px;
+}
+/* badge background */
+.container_e5a42d {
+    background: #000;
+    border: none;
+}
+/* border */
+.userProfileModalOuter__3fe6b{
+    
+	--profile-gradient-primary-color: #000000 !important;
+	--profile-gradient-secondary-color: #000000 !important;
+}
+/* note */
+.note_c2dcc6 textarea:focus {
+    background-color: #000;
+}
+.note_fcb628 textarea:focus {
+    background-color: #000;
+    border: none;
+}
+.note_fcb628 textarea:hover  {
+    background-color: #000;
+    border: none;
+}
+.note_fcb628 textarea {
+    border: none;
+}
+
+
+/* side profile popup in servers */
+.animatorLeft_b2289c{
+    background: #000000 !important;
+}
+.biteSizeInnerThemed_c69a7b {
+    background: #000;
+}
+
+.userPopoutInner_f545a3::before {
+	background: #000000 !important
+}
+
+.userPopoutOuter_d739b2{
+    --profile-gradient-primary-color: #000000 !important;
+    --profile-gradient-secondary-color: #000000 !important;
+}
+.divider__2bbbc{
+    display: none;
+}
+
+/* search in friends */
+.inner__999f6{
+    background: #000000 !important
+}
+
+/* header friends */
+section.theme-dark{
+    background: #000000 !important
+}
+
+/* mod view */
+/* backgrounds */
+.innerContainer_d2194f {
+    background: #000;
+}
+.container_d936aa {
+    background-color: #000;
+}
+.topRow_d936aa {
+    background: #000 !important;
+}
+.bottomRowAction_d936aa {
+    background: #000 !important;
+}
+
+.container_f51af4 {
+    background: #000 !important;
+}
+.header_f51af4 {
+    background: #000 !important;
+}
+
+
+
+
+/* inbox */
+/*buttons */
+.tertiary_e258f5 {
+    background-color: #000;
+    color: var(--interactive-normal);
+}
+.friendRequestsButton_c0c071 {
+    background-color: #000;
+}
+/*notification number small dot*/
+.numberBadge_df8943 {
+    background: #000 !important;
+    color: #FF0000 !important;
+}
+/*others*/
+.container__20de0{
+    background: #000000 !important
+}
+.header__28ebb{
+    background: #000000 !important
+}
+.channelHeader__5d30c {
+	background: #000000 !important
+}
+.messages_f7999e {
+	background: #000000 !important
+}
+.header_f0cd33.expanded_f0cd33 {
+    background: #000;
+}
+.messages_c06487 {
+    background-color: #000;
+}
+.forumPost_c53f2f {
+    background-color: #000;
+}
+.messageContainer_ddb5b4 {
+    background-color: #000;
+}
+.container_f1c3d9 {
+    border: none;
+}
+
+
+
+
+/* guild separator */
+.guildSeparator__75928 {
+    display: none !important;
+}
+.guildSeparator_d0c57e {
+    display: none !important;
+}
+
+
+/* threads */
+.list_a6d69a, .grid_a6d69a {
+    background: #000 !important;
+}
+.header__6d44a {
+    background: #000 !important;
+}
+.header_e664f3 {
+    background-color: #000 !important;
+}
+.container_acb8b3 {
+    background-color: #000 !important;
+    border: none !important;
+}
+.container_a57509 {
+    border: 0px solid var(--home-card-resting-border);
+    background: #000 !important;
+}
+.theme-dark .textContentFooter_a57509 {
+    background: none;
+}
+.theme-dark .textContentFooter_a57509.noTags_a57509 {
+    background: none;
+}
+/* search */
+.collapsed_c1668f {
+    background: #000;
+}
+.matchingPostsRow_a6d69a {
+    background: #000 !important;
+    border-bottom-left-radius: 0px;
+    border-bottom-right-radius: 0px;
+}
+
+
+
+
+
+/* posts */
+.theme-dark .themed_e44302 {
+    background: #000 !important;
+}
+.list_a6d69a>div:first-child, .grid_a6d69a>div:first-child, .headerRow_a6d69a {
+    background: #000 !important;
+}
+
+
+/* pins */
+.header__21b33 {
+    	background: #000000 !important
+}
+
+.wrapper_a62503 {
+    background: #000 !important;
+}
+
+.theme-dark .message_ff43e6 {
+    background-color: #000 !important;
+}
+
+.messagesPopout__22763{
+	background: #000000 !important
+}
+div.messageGroupWrapper_f8c6e9{
+	background: #000000 !important
+}
+
+.footer__6b9ef {
+    	background: #000000 !important
+}
+.messageGroupWrapper__1fce2 {
+    	background: #000000 !important
+}
+.header_ac90a2 {
+    background-color: #000;
+}
+.messageGroupWrapper_ac90a2 {
+    background: #000;
+}
+
+/* popup */
+.footer_e0b400 {
+    background-color: #000 !important;
+}
+
+
+
+
+
+
+/* mark all as read confirm menu */
+.root_a28985{
+	background: #000000 !important
+}
+div.flex_f5fbb7{
+	background: #000000 !important
+}
+.messages__1aaa1 {
+    background-color: #000 !important;
+}
+.guildSeparator__252b6 {
+    display: none; 
+}
+
+
+/* find or start conversation */
+.searchBarComponent__22760{
+    background: #000000 !important
+}
+/* search bar in popup */
+.input__848cd{
+    background: #000000 !important
+}
+
+/* add/join server menu */
+.container__73245{
+    border: 0px;
+    background: #000000 !important
+}
+/* separator */
+.theme-dark .footerSeparator__57d95 {
+	box-shadow: inset 0 1px 0 #000 !important;
+    background: #000000 !important;
+    border: 0px;
+}
+/* join server button */
+.footerButton__71d9e{
+    background: rgb(15, 15, 15) !important 
+}
+.lookFilled_dd4f85.colorPrimary_dd4f85 {
+    background-color: #000;
+}
+
+/* input for server invite */
+.inputDefault__80165{
+    background: #000000 !important;
+}
+/* dont have an invite */
+.rowContainer__6f4c6{
+    background: #000000 !important;
+}
+/* example text */
+.examplesForm_e0f677 .sampleLink__771c4{
+    color: var(--header-secondary) !important;
+}
+
+
+/* discoverable servers */
+.scroller__26b89 {
+    background: #000 !important;
+}
+.footer_f8ec41 {
+    display: none;
+}
+.search_e47903 .searchBox__02d0b {
+    background-color: #000 !important;
+    
+}
+.search_e47903 .searchBox__02d0b .searchBoxInput__74f29 {
+    color: white !important;
+}
+/*... after searching */
+.theme-dark .searchBox__56feb {
+    background-color: #000 !important;
+}
+.theme-dark .pageWrapper_a3a4ce {
+    background-color: #000 !important;
+}
+
+/* text input */
+.scrollableContainer__33e06{
+    background: #000000 !important
+}
+.themedBackground_d0696b {
+    background: #000;
+}
+
+/* hide invite button */
+#user-context-invite-to-server{
+    display: none;
+}
+
+
+/* disable events */
+
+.basicChannelRowLink__2ea32 {
+    display: none;
+}
+
+#channels > ul > li.containerDefault-YUSmu3.wrapper-NhbLHG{
+    display: none;
+}
+li.containerDefault__3187b:nth-child(3){
+    display: none;
+}
+#channels > ul > div:nth-child(2){
+    display: none;
+}
+#channels > ul > div.sectionDivider-189lqb{
+    display: none;
+}
+.wrapper__612a5:has([d="M7 1a1 1 0 0 1 1 1v.75c0 .14.11.25.25.25h7.5c.14 0 .25-.11.25-.25V2a1 1 0 1 1 2 0v.75c0 .14.11.25.25.25H19a3 3 0 0 1 3 3 1 1 0 0 1-1 1H3a1 1 0 0 1-1-1 3 3 0 0 1 3-3h.75c.14 0 .25-.11.25-.25V2a1 1 0 0 1 1-1Z"]) {
+    display: none;
+}
+.content_cc29d1 {
+    display: none;
+}
+.sectionDivider_c43953 {
+    display: none;
+}
+.sectionDivider__629e4 {
+    display: none;
+}
+.basicChannelRowLink_d8bfb3 {
+    display: none;
+}
+
+
+
+.theme-dark .footerSeparator__49fc1 {
+    box-shadow: none;
+}
+
+
+/* disable separator in top left friends/servers */
+.guildSeparator_dcb3cc{
+    display:none;
+}
+/* new dm with friends*/
+.root_f9a4c9 {
+    background-color: #000;
+}
+
+
+/* banned users */
+.theme-dark .bannedUser_cdb2b0 {
+    background: #000;
+    box-shadow: none;
+}
+
+
+/* make most things black */
+:root{
+    --accent: 37,172,232 !important;
+    --accent-alt: 29,101,134 !important;
+    --background-solid: #000000FF !important;
+    --background-solid-dark: #000000FF !important;
+    --background-solid-darker: #000000FF !important;
+    --dark-primary: #000000 !important;
+    --dark-secondary-alt: #000000 !important;
+    --roundmoled-background: #000000; 
+}
+
+.header-3YNgrp{
+    background: #000000 !important;
+}
+.lookFilled__201d5.colorPrimary__201d5 {
+    color: var(--button-secondary-text);
+    background-color: #000;
+}
+
+/*make searchbar on the right black*/
+.searchBar-jGtisZ {
+    background: #000000 !important;
+}
+
+/*make searchbar on the left black*/
+.searchBar-3TnChZ .searchBarComponent-3N7dCG {
+    background-color: #000000 !important;
+}
+
+/* make friends online buttons black */
+.theme-dark .themed-Hp1KC_ {
+    background: #000000 !important;
+}
+.itemCard__7e549 {
+    background: #000;
+}
+
+/* make profile popup black */
+:root .biteSize_c69a7b {
+    --custom-user-profile-banner-height: 105px;
+    background: #000 !important;
+}
+.userProfileInnerThemedNonPremium-2AJg-H {
+    background: #000 !important;
+}
+.overlayBackground-2aa7wt {
+    background-color: #000 !important;
+}
+.profileColors-3Y0XaR {
+    --profile-body-background-color: #000000 !important;
+
+}
+.overlayBackground-2aa7wt {
+    background-color: #000 !important;
+}
+.tabBarItem-30Te4- {
+    background-color: #000 !important;
+}
+.note-3M15gE textarea {
+    background: #000 !important;
+}
+.note_c90ad7 textarea:focus {
+    background-color: #000 !important;
+}
+.note_a24910 textarea:focus {
+    background-color: #000 !important;
+}
+
+/* make text field black */
+.scrollableContainer-15eg7h {
+    background: #000000 !important;
+    border-color: #000000;
+}
+.themedBackground__3a4c0 {
+    background: #000000 !important;
+}
+
+
+.theme-dark .themed_fc4f04 {
+    background: #000 !important;
+}
+
+
+/* edit text menu */
+.button_de3e42 {
+    background-color: #000;
+}
+
+.buttons_de3e42 {
+    background: #000;
+}
+
+.toolbar_de3e42:before {
+    border-top: none;
+}
+
+
+
+
+
+/* make server listing black */
+:root.theme-dark 
+{
+    --background-secondary: rgb(0, 0, 0); /* guild folder border background */
+}
+
+.container-1NXEtd {
+    background: #000000 !important;
+}
+
+/* make notifications area black */
+.group-spacing-16 .groupStart-3Mlgv1 {
+    margin-top: 0;
+}
+.messages-23can0 {
+    background-color: #000000;
+}
+.scroller-145h9c {
+    background: #000000;
+}
+.container-2ebMPP, .channelHeader-DFRX8q {
+    background-color: #000000;
+}
+.forumPost-3i1mpe {
+    background-color: #000000;
+}
+
+/* Buttons */
+.lookFilled-1H2Jvj.colorPrimary-2-Lusz {
+    background-color: #060606;
+}
+
+/* Settings Activity Privacy background */
+.marginBottom40-fvAlAV {
+    background-color: #000000;
+}
+
+/* remove bar in left activity panel */
+.activityPanel-9icbyU {
+    border-bottom: none !important;
+}
+/* activity popup background */
+.slideContent_f7506e {
+    background: #000 !important;
+}
+.appDetailsContainer_e5da8b {
+    background: #000 !important;
+}
+
+
+
+.wrapper-2vIMkT {
+    border: none !important;
+}
+
+/* add friend input blacken */
+.addFriendInputWrapper-kkoSV9 {
+    background-color: #000000 !important;
+    border: 1px solid #000000 !important;
+}
+.addFriendInputWrapper__2b30b {
+    background-color: #000000 !important;
+    border: 1px solid #000000 !important;
+}
+.addFriendInputWrapper_de812f {
+    background-color: #000;
+}
+.addFriendInputWrapper__72ba7 {
+    background-color: #000;
+}
+
+
+
+/* make status menu black on hover */
+.menu-2-eHMB .menuItemFocused-1a4_bh {
+    background-color: #000 !important;
+}
+
+/* emoji popup blacken */
+.header-11eigE {
+    background-color: #000000 !important;
+}
+.inspector-DFKXwB {
+    background-color: #000000 !important;
+}
+.scroller-2MALzE {
+    background:#000000 !important;
+}
+
+.scroller_ac6d1c {
+    background:#000000 !important;
+}
+
+.contentWrapper-3vHNP2 {
+    border: none !important;
+    background-color: #000;
+}
+.unicodeShortcut-3N8oDe, .wrapper-1NNaWG, .input-2FSSDe, .emojiPicker-6YCk8a {
+    background-color: #000 !important;
+}
+.unicodeShortcut__01a83 {
+    background: #000 !important;
+}
+
+.standardStickerShortcut_e9a698 {
+    background: #000 !important;
+}
+.scroller__6b0e0 {
+    background: #000;
+}
+
+
+/* apps menu*/
+.slideContent__9c62c {
+    background: #000;
+}
+.appDetailsContainer_cb32c7 {
+    background: #000;
+}
+/* remove app button */
+.channelAppLauncher_e6e74f {
+    display: none;
+}
+
+
+
+/* reaction emoji menu blacken */
+.contentWrapper-2f9yME {
+    background-color: #000;
+}
+.theme-dark .reactionEmojiDetailsClickable_d5cd2d {
+    background-color: #000;
+}
+
+/* right click menu blacken */
+.scroller-nxCRu_ {
+    background: #000000 !important;
+}
+/* ^ emoji background */
+.button_a24e84 {
+    background-color: #000;
+}
+
+/* VIDEO AD */
+.contentHeader_de2fa0 {
+   background: #000;
+}
+.contentFooter_de2fa0 {
+    background: #000;
+}
+
+
+/*Avatar square thingy */
+.avatar-2e8lTP:hover,
+.pngImage-1vIgLy{
+    transform: scale(1) !important;
+    border-radius: 1 !important;
+}
+
+.theme-dark,
+html.theme-dark .theme-light .root_a28985,
+.theme-light.popout_a6e77f {
+  --background-floating: #000 !important;
+  --background-secondary-alt: #000 !important;
+}
+
+
+:root.theme-dark 
+{
+--background-tertiary: #000 !important;
+--background-floating: #000 !important;
+--input-background: #000 !important;
+--deprecated-card-editable-bg: #000 !important;
+--background-secondary: #000 !important;
+--background-tertiary: #000 !important;
+--background-primary: #000 !important;
+--modal-background: #000 !important;
+}
+
+
+.theme-dark {
+    /* reaction emojipicker */
+	--background-primary: #000 !important;
+	--background-secondary: #000 !important;
+	--background-secondary-alt: #000 !important;
+	--background-tertiary: #000 !important;
+	--background-modifier-selected: #000 !important;
+	--background-modifier: #000 !important;
+	--background-modifier-hover: #000 !important;
+	--background-nested-floating: #000 !important;
+	--input-background: #000 !important;
+	--background-secondary: #000 !important; 
+	--bg-overlay-3: #000 !important;
+	--channeltextarea-background: #000 !important;
+	--bg-surface-overlay: #000 !important;
+	--bg-mod-faint: #000 !important;
+	/*polls*/
+	--card-secondary-bg: #000 !important;
+	--modal-footer-background: #000 !important;
+	--bg-surface-raised: #000 !important;
+}
+
+div.flex_f5fbb7 {
+    background: none !important;
+}
+
+.wrapper__3f3a7 {
+    background: rgba(224, 15, 15, 0.041) !important;
+}
+/* vc buttons */
+.wrapper__3f3a7 {
+	background: none !important;
+}
+.justifyCenter__4080c {
+	background: none !important;
+}
+.contextMenuContainer_fc4df6 {
+	background: none !important;
+}
+.colorable_f1ceac.primaryDark_f1ceac, .colorable_f1ceac.primaryDark_f1ceac .centerIcon_f1ceac {
+    background: #000;
+}
