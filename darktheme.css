@@ -12,6 +12,17 @@
 
 
 
+
+/* member list server settings  */
+.bannerContainer__71cd5 {
+    background: #000;
+}
+/* fix discord bug related to zoom :3*/
+ .override_fa2640.settingsContent_fa2640 {
+    min-width: 500px;
+} 
+
+
 /* vc sound board buttons */
 .soundButtonInteractiveRefresh_f40049 {
     cursor: pointer;
