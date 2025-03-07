@@ -1150,8 +1150,12 @@ div.flex_f5fbb7 {
     background: none !important;
     border: none;
 }
+
 /* leave call button */
 .colorable_f1ceac.disconnect_f1ceac, .colorable_f1ceac.disconnect_f1ceac .centerIcon_f1ceac {
+    background: none;
+}
+.colorable_f1ceac.disconnect_f1ceac:hover {
     background: none;
 }
 .caretButtonContainer_f1ceac {
