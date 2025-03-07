@@ -1161,6 +1161,9 @@ div.flex_f5fbb7 {
 .colorable_f1ceac.disconnect_f1ceac, .colorable_f1ceac.disconnect_f1ceac .centerIcon_f1ceac {
     background: none;
 }
+.fullRegionDropdownButton_f1ceac.disconnect_f1ceac {
+    background: none;
+}
 .colorable_f1ceac.disconnect_f1ceac:hover {
     background: none;
 }
