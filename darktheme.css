@@ -1154,7 +1154,9 @@ div.flex_f5fbb7 {
 .participantsButton__211d1 {
     background: #000;
 }
-
+.participantsButton__211d1:hover {
+    background: #000;
+}
 /* leave call button */
 .colorable_f1ceac.disconnect_f1ceac, .colorable_f1ceac.disconnect_f1ceac .centerIcon_f1ceac {
     background: none;
