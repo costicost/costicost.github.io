@@ -1149,3 +1149,7 @@ div.flex_f5fbb7 {
 .buttonSection__1405b {
     background: none !important;
 }
+/* leave call button */
+.colorable_f1ceac.disconnect_f1ceac, .colorable_f1ceac.disconnect_f1ceac .centerIcon_f1ceac {
+    background: none;
+}
