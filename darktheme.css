@@ -971,6 +971,9 @@ li.containerDefault__3187b:nth-child(3){
 .appDetailsContainer_e5da8b {
     background: #000 !important;
 }
+.clickableContainer__39ec2:hover>.card__39ec2 {
+    background: #000;
+}
 
 
 
