@@ -1098,6 +1098,9 @@ html.theme-dark .theme-light .root_a28985,
   --background-secondary-alt: #000 !important;
 }
 
+.forumOrHome__49676 {
+    --__header-bar-background: #000;
+}
 
 :root.theme-dark 
 {
