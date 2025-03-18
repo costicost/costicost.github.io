@@ -562,6 +562,12 @@ section.theme-dark{
 .forumPost_c53f2f {
     background-color: #000;
 }
+.container_f369db {
+    background: #000;
+}
+.matchingPostsRow_f369db {
+    background: #000;
+}
 .messageContainer_ddb5b4 {
     background-color: #000;
 }
@@ -1126,6 +1132,7 @@ html.theme-dark .theme-light .root_a28985,
 	--card-secondary-bg: #000 !important;
 	--modal-footer-background: #000 !important;
 	--bg-surface-raised: #000 !important;
+	--__header-bar-background: #000 !important;
 }
 
 div.flex_f5fbb7 {
