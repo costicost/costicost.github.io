@@ -28,7 +28,15 @@
 #stream-options-frame-rate--stream-option-frame-rate-60 > div.label_c1e9c4 > div > svg{
     display: none;
 }
-
+#stream-options-resolution--stream-option-resolution-1080 > div.label_c1e9c4 > div > svg{
+    display: none;
+}
+#stream-options-resolution--stream-option-resolution-1440 > div.label_c1e9c4 > div > svg{
+    display: none;	
+}
+#stream-options-resolution--stream-option-resolution-0 > div.label_c1e9c4 > div > svg{
+    display: none;
+}
 
 /* member list server settings  */
 .bannerContainer__71cd5 {
