@@ -12,6 +12,23 @@
 
 
 
+/* F the new discord screenshare menu */
+.header__7f727 {
+    background: #000;
+}
+.segmentedControl__7f727 {
+    background: #000;
+}
+.content__7f727 {
+    background: #000;
+}
+.screenArrowIcon__0a8d6 {
+    background-color: #000;
+}
+#stream-options-frame-rate--stream-option-frame-rate-60 > div.label_c1e9c4 > div > svg{
+    display: none;
+}
+
 
 /* member list server settings  */
 .bannerContainer__71cd5 {
