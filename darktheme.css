@@ -11,6 +11,122 @@
 @import url("https://costicost.github.io/mainfile.css");
 
 
+/* discord update :upsidedown: onyx only*/
+.lookFilled__19298.colorBrand_b2253e{
+    background-color: #000 !important;
+}
+
+.visual-refresh .theme-midnight, .visual-refresh.theme-midnight{
+    /* link colour customise :3*/
+    --text-link: rgba(255, 0, 0, 0.800);
+
+
+    --chat-background-default: #000;
+    --border-strong: #000;
+    --border-normal: #000;
+    --border-subtle: #000;
+    --border-faint: #000;
+    --bg-mod-subtle: #000;
+    --background-mod-strong: #000;
+    --background-mod-normal: #000;
+    --background-mod-subtle: #000;
+    --background-mod-faint: #000;
+    --background-modifier-accent: #000;
+    --background-base-lower: #000;
+    --background-surface-high: #000;
+    --background-surface-higher: #000;
+    --background-surface-highest: #000;
+    --background-base-low: #000;
+    --background-base-lowest: #000;
+    --bg-base-primary: #000;
+    --bg-base-secondary: #000;
+    --bg-base-tertiary: #000;
+
+    --card-primary-bg: #000;
+
+    --app-border-frame: #000;
+
+    --divider-subtle: #000;
+    --divider-strong: #000;
+
+
+    --user-profile-overlay-background: #000;
+    --user-profile-overlay-background-hover: #000;
+
+    --shadow-border: #000;
+    --shadow-border-filter: #000;
+
+    --custom-app-top-bar-height: #000;
+
+    --button-filled-brand-background: #000;
+    --button-filled-brand-border: #000;
+    --button-filled-brand-background-hover: #000;
+    --button-outline-danger-border: #000;
+    --button-outline-danger-border-hover: #000;
+    --button-outline-danger-background: #000;
+    --button-secondary-background: #000;
+    --button-secondary-background-hover: #000;
+    --button-danger-background-hover: #000;
+    --button-filled-white-background-hover: #000;
+
+    --control-brand-foreground: #000;
+    --bg-backdrop: #000;
+
+    --modal-background: #000;
+    --modal-footer-background: #000;
+
+    --input-border: #000;
+}
+
+
+.theme-dark {
+    --legacy-elevation-low: #000;
+    --legacy-elevation-high: #000;
+    --legacy-elevation-border: #000;
+}
+
+.answerInner__4c520 {
+    color: color-mix(in oklab, var(--neutral-10) 100%, var(--theme-text-color, #000) var(--theme-text-color-amount, 25%));
+}
+
+.participantsButton__211d1 {
+    background: none !important;
+    box-shadow: none !important;
+}
+
+.visual-refresh .guilds_c48ade {
+    width: calc(1px + var(--custom-guild-list-width));
+}
+
+.tutorialContainer__650eb + .listItem__650eb {
+    display: none;
+}
+
+/* Force sidebar to be full height */
+.bar_c38106 { padding-left: 0px; }
+.sidebarList_c48ade, .notice__6e2b9 {
+    border-top-left-radius: 0px!important;
+    border-top: 0px!important;
+}
+.notice__6e2b9 {
+    border-left: 0px!important;
+    border-bottom: 1px solid var(--app-border-frame);
+}
+.tutorialContainer__1f388 {
+    padding-top: calc(var(--space-xs) * 2); /* Fix padding on home button */
+}
+.visual-refresh .base_c48ade {
+    grid-template-rows: [top] min-content [titleBarEnd] min-content [noticeEnd] 1fr [end];
+    grid-template-areas: "notice     notice       notice"
+                         "guildsList channelsList titleBar"
+                         "guildsList channelsList page";
+}
+/* end of new discord theme */
+
+
+
+
+
 
 /* F the new discord screenshare menu */
 .header__7f727 {
