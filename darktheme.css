@@ -1287,6 +1287,10 @@ div.flex_f5fbb7 {
     background: rgba(224, 15, 15, 0.041) !important;
 }
 /* vc buttons */
+.theme-midnight .container__9293f.transparent__9293f {
+    border-bottom: none;
+    background: transparent !important;
+}
 .wrapper__3f3a7 {
 	background: none !important;
 }
