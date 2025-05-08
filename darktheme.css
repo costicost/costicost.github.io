@@ -11,6 +11,24 @@
 @import url("https://costicost.github.io/mainfile.css");
 
 
+/* discord update vc spacing change*/
+.visual-refresh section.panels_c48ade {
+  left: calc(var(--custom-guild-list-width) + var(--space-xs));
+  width: calc(100% - var(--custom-guild-list-width) - var(--space-xs)*2);
+  box-sizing: content-box;
+
+  .actionButtons_e131a9 button {
+    padding: 0;
+  }
+}
+nav.guilds_c48ade {
+  margin-bottom: 0 !important;
+}
+.sidebar_c48ade:after {
+  display: none;
+}
+
+
 /* discord update :upsidedown: onyx only*/
 .lookFilled__19298.colorBrand_b2253e{
     background-color: #000 !important;
@@ -1280,6 +1298,7 @@ html.theme-dark .theme-light .root_a28985,
 	--bg-surface-raised: #000 !important;
 	--__header-bar-background: #000 !important;
 }
+
 
 div.flex_f5fbb7 {
     background: none !important;
