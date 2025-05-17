@@ -119,6 +119,9 @@ nav.guilds_c48ade {
 .tutorialContainer__650eb + .listItem__650eb {
     display: none;
 }
+.attachedCaretButtonContainer_f1ceac.popoutOpen_f1ceac .primaryDark_f1ceac, .attachedCaretButtonContainer_f1ceac:hover .primaryDark_f1ceac {
+    background: none;
+}
 
 /* Force sidebar to be full height */
 .bar_c38106 { padding-left: 0px; }
@@ -1330,7 +1333,7 @@ div.flex_f5fbb7 {
 	background: none !important;
 }
 .colorable_f1ceac.primaryDark_f1ceac, .colorable_f1ceac.primaryDark_f1ceac .centerIcon_f1ceac {
-    background: #000;
+    background: none;
 }
 
 .buttonSection__1405b {
