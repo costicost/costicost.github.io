@@ -18,13 +18,6 @@ span:has(button[aria-label="Reveal phone number"]){
 }
 
 
-
-
-
-
-
-
-
 /* discord update vc spacing change*/
 .visual-refresh section.panels_c48ade {
   left: calc(var(--custom-guild-list-width) + var(--space-xs));
