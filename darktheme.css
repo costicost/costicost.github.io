@@ -21,6 +21,10 @@ span:has(button[aria-label="Reveal phone number"]){
 
 
 
+
+
+
+
 /* discord update vc spacing change*/
 .visual-refresh section.panels_c48ade {
   left: calc(var(--custom-guild-list-width) + var(--space-xs));
@@ -37,6 +41,16 @@ nav.guilds_c48ade {
 .sidebar_c48ade:after {
   display: none;
 }
+
+/* make sure the full timestamp fits and doesnt go under crisp button */
+.align-chat-input [class*="panels"] [class*="inner_"], .align-chat-input [class*="rtcConnectionStatus_"] {
+    height: fit-content;
+    width: fit-content;
+}
+
+
+
+
 
 
 /* quest popup bottom left */
@@ -123,7 +137,20 @@ nav.guilds_c48ade {
     --legacy-elevation-low: #000;
     --legacy-elevation-high: #000;
     --legacy-elevation-border: #000;
+	/* 	input borders */
+	--input-border-default: #000 !important;
+    --input-border-default-hover: #000 !important;
+	--input-border-hover: #000 !important;
+    --input-border-active: #000 !important;
+    --input-focused-border: #000 !important;
+	/* 	 */
 }
+
+/* friend input border */
+.addFriendInputWrapper__72ba7:focus-within {
+    border-color: #000 !important;
+}
+
 
 .answerInner__4c520 {
     color: color-mix(in oklab, var(--neutral-10) 100%, var(--theme-text-color, #000) var(--theme-text-color-amount, 25%));
@@ -1300,6 +1327,10 @@ html.theme-dark .theme-light .root_a28985,
 --modal-background: #000 !important;
 }
 
+.theme-midnight {
+	--input-border-default: #000 !important;
+	--input-border-hover: #000 !important;
+}
 
 .theme-dark {
     /* reaction emojipicker */
