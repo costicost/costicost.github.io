@@ -11,6 +11,16 @@
 @import url("https://costicost.github.io/mainfile.css");
 
 
+
+/* fully hide phone number */
+span:has(button[aria-label="Reveal phone number"]){
+        display: none !important;
+}
+
+
+
+
+
 /* discord update vc spacing change*/
 .visual-refresh section.panels_c48ade {
   left: calc(var(--custom-guild-list-width) + var(--space-xs));
