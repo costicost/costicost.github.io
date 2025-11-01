@@ -19,7 +19,7 @@ span:has(button[aria-label="Reveal phone number"]){
 
 
 /* discord update vc spacing change*/
-.visual-refresh section.panels_c48ade {
+.visual-refresh section.panels__5e434 {
   left: calc(var(--custom-guild-list-width) + var(--space-xs));
   width: calc(100% - var(--custom-guild-list-width) - var(--space-xs)*2);
   box-sizing: content-box;
@@ -28,13 +28,12 @@ span:has(button[aria-label="Reveal phone number"]){
     padding: 0;
   }
 }
-nav.guilds_c48ade {
+nav.guilds__5e434 {
   margin-bottom: 0 !important;
 }
-.sidebar_c48ade:after {
-  display: none;
-}
-
+.sidebar__5e434:after {
+  display:
+	
 /* make sure the full timestamp fits and doesnt go under crisp button */
 .align-chat-input [class*="panels"] [class*="inner_"], .align-chat-input [class*="rtcConnectionStatus_"] {
     height: fit-content;
