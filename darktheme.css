@@ -123,7 +123,69 @@ nav.guilds__5e434 {
 
     --input-border: #000;
 }
+.theme-midnight{
+ /* link colour customise :3*/
+    --text-link: rgba(255, 0, 0, 0.800);
 
+
+    --home-background: #000;
+    --chat-background-default: #000;
+    --border-strong: #000;
+    --border-normal: #000;
+    --border-subtle: #000;
+    --border-faint: #000;
+    --bg-mod-subtle: #000;
+    --bg-mod-strong: #000;
+    --background-mod-strong: #000;
+    --background-mod-normal: #000;
+    --background-mod-subtle: #000;
+    --background-mod-faint: #000;
+    --background-modifier-accent: #000;
+    --background-base-lower: #000;
+    --background-surface-high: #000;
+    --background-surface-higher: #000;
+    --background-surface-highest: #000;
+    --background-base-low: #000;
+    --background-base-lowest: #000;
+    --bg-base-primary: #000;
+    --bg-base-secondary: #000;
+    --bg-base-tertiary: #000;
+
+    --card-primary-bg: #000;
+
+    --app-border-frame: #000;
+
+    --divider-subtle: #000;
+    --divider-strong: #000;
+
+
+    --user-profile-overlay-background: #000;
+    --user-profile-overlay-background-hover: #000;
+
+    --shadow-border: #000;
+    --shadow-border-filter: #000;
+
+    --custom-app-top-bar-height: #000;
+
+    --button-filled-brand-background: #000;
+    --button-filled-brand-border: #000;
+    --button-filled-brand-background-hover: #000;
+    --button-outline-danger-border: #000;
+    --button-outline-danger-border-hover: #000;
+    --button-outline-danger-background: #000;
+    --button-secondary-background: #000;
+    --button-secondary-background-hover: #000;
+    --button-danger-background-hover: #000;
+    --button-filled-white-background-hover: #000;
+
+    --control-brand-foreground: #000;
+    --bg-backdrop: #000;
+
+    --modal-background: #000;
+    --modal-footer-background: #000;
+
+    --input-border: #000;
+}
 
 .theme-dark {
     --legacy-elevation-low: #000;
