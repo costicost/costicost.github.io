@@ -136,7 +136,7 @@ nav.guilds__5e434 {
 	--input-border-hover: #000 !important;
     --input-border-active: #000 !important;
     --input-focused-border: #000 !important;
-	/* 	 */
+	--control-background-secondary-default: #000 !important;
 }
 
 /* friend input border */
