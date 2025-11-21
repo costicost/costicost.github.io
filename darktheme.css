@@ -18,6 +18,7 @@ span:has(button[aria-label="Reveal phone number"]){
 }
 
 
+
 /* discord update vc spacing change*/
 .visual-refresh section.panels__5e434 {
   left: calc(var(--custom-guild-list-width) + var(--space-xs));
@@ -1392,6 +1393,9 @@ div.flex_f5fbb7 {
     background: #000;
 }
 /* leave call button */
+.fullRegionButton_f1ceac, .fullRegionDropdownButton_f1ceac {
+    border: 0px;
+}
 .colorable_f1ceac.disconnect_f1ceac, .colorable_f1ceac.disconnect_f1ceac .centerIcon_f1ceac {
     background: none;
 }
