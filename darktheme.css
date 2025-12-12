@@ -1322,6 +1322,16 @@ html.theme-dark .theme-light .root_a28985,
 .theme-midnight {
 	--input-border-default: #000 !important;
 	--input-border-hover: #000 !important;
+	--border-muted: #000;
+    --interactive-background-selected: #000;
+    --message-background-hover: #000;
+    --primary-800: #000;
+    --interactive-background-hover: #000;
+    --control-secondary-background-default: #000;
+    --control-secondary-background-hover: #000;
+    --control-secondary-background-active: #000;
+    --control-secondary-border-default: #000;
+    --control-secondary-border-hover: #000;
 }
 
 .theme-dark {
