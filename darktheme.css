@@ -1420,3 +1420,8 @@ div.flex_f5fbb7 {
     border: none;
     background: none;
 }
+/* vc green highlight bar */
+.voiceChannelHighlightBorder_c69b6d, .voiceChannelHighlightGlow_c69b6d {
+    display: none;
+}
+
