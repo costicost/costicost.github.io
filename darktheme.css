@@ -1332,6 +1332,9 @@ html.theme-dark .theme-light .root_a28985,
     --control-secondary-background-active: #000;
     --control-secondary-border-default: #000;
     --control-secondary-border-hover: #000;
+	--card-background-default: #000 !important;
+    --redesign-button-secondary-background: #000 !important;
+	--background-mod-muted: #000 !important;
 }
 
 .theme-dark {
